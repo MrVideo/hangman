@@ -1,5 +1,8 @@
-# Binary
-hangman
+# Binary files
+bin/
+
+# Object files
+obj/
 
 # Debug files
 *.dSYM

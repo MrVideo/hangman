@@ -1,4 +1,4 @@
-#include "hangman.hpp"
+#include "../include/hangman.hpp"
 #include <sstream>
 
 int count_words(std::ifstream &ifs) {

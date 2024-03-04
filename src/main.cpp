@@ -1,7 +1,7 @@
 #include <fstream>
 #include <iostream>
 
-#include "include/hangman.hpp"
+#include "../include/hangman.hpp"
 
 int main(int argc, char **argv) {
 	if (argc == 1) {
