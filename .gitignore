@@ -1,0 +1,12 @@
+# Binary
+hangman
+
+# Debug files
+*.dSYM
+
+# File system
+.DS_Store
+
+# Test text file
+test.txt
+words_short.txt
